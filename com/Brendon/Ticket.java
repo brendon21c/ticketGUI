@@ -3,7 +3,7 @@ package com.Brendon;
 
 
 /*
-This class creates a new ticket object that can be used in the Vector from ticketGUI.
+This class creates a new ticket object that can be used in the Vector from ticketGUI.m
  */
 public class Ticket {
 
