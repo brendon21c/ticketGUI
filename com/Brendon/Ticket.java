@@ -1,8 +1,6 @@
 package com.Brendon;
 
-/**
- * Created by Brendon on 4/9/16.
- */
+
 
 /*
 This class creates a new ticket object that can be used in the Vector from ticketGUI.
